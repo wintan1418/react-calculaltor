@@ -1,5 +1,5 @@
 React calculator
-In this project I built a very simple calculator with React. The project is divided into several milestones, and each milestone implements a fucntionality. The app is capable is simple mathematical operations such as: sum, substraction, multiplication and division.
+In this project I have  built a  basic calculator using react React. The project is divided into five milestones, with each milestone having its different unique  fucntionality. The app is capable of performing simple arithmetical tasks such as: addition, substraction, multiplication and division.
 
 Live version
 
@@ -15,21 +15,27 @@ Prerequisites
 Get a browser like Chrome and Firefox in their most recent versions
 Code Editor (VSCode)
 Setup
-Open a terminal and run the command git clone https://github.com/GraceOyiza/react-calculator.git
-cd WeatherApp
+Open a terminal and run the command git clone https://github.com/wintan1418/react-calculaltor
+cd react-calculaltor
 run npm install
 run npm run build
 Open the index.html file with any browser of your choice.
-Author
-👤 Popoola Grace Boluwatife
 
-Github: @GraceOyiza
-Twitter: @_PopsonGrace
-LinkedIn: @grace
-🤝 Contributing
-Contributions, issues and feature requests are welcome!
+👤 Author
 
-Feel free to check the issues page.
+Oluwadare Juwon
 
-Show your support
-Give a ⭐️ if you like this project!
+- Github: [@Oluwadare Juwon](https://github.com/wintan1418)
+- Linkedin: (www.linkedin.com/in/oluwintan)
+- Twitter: [Oluwadare-juwon](https://twitter.com/@oluwadarejuwon)
+
+
+## 🙋‍♂ show your support
+
+give a ⭐️ if you like this project!
+
+## 📝 license
+
+
+
+This project is [MIT](LICENSE) licensed.
